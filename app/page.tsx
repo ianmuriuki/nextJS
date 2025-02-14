@@ -97,9 +97,9 @@ export default function Page() {
 
       {/* Header Section */}
       <div className="flex h-20 shrink-0 items-center justify-center rounded-lg bg-red-500 p-4 shadow-lg md:h-52">
-        <h1 className="text-3xl font-extrabold text-white md:text-5xl">
+        <h3 className="text-3xl font-extrabold text-white md:text-5xl">
           💌 Happy Valentine's Day! 💌
-        </h1>
+        </h3>
       </div>
 
       {/* Main Content */}
@@ -110,7 +110,7 @@ export default function Page() {
             <HeartIcon className="h-12 w-12 text-red-500" />
           </div>
           <p className="text-center text-xl text-gray-800 md:text-3xl md:leading-normal">
-            <strong>Hello, Valentine! 💕</strong> <br />
+            <strong>Hello, Wanjiku! 💕</strong> <br />
             I made this page to celebrate you and let you know how special you are.
             <br />
              I know I'm it's almost over but....
