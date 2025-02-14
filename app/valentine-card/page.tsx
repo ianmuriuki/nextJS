@@ -12,7 +12,7 @@ export default function ValentineCard() {
           Your Valentine Card
         </h2>
         <p className="mb-6 text-center text-lg text-gray-700">
-        Just a friendly reminder of how awesome you are.You always brighten up my dull days.<br /> Happy belated Valentine's Day!
+        Just a reminder of how awesome you are.You always brighten up my dull days.<br /> Happy belated Valentine's Day!
         
         </p>
         <div className="flex flex-col items-center gap-4 md:flex-row">
