@@ -115,7 +115,7 @@ export default function Page() {
             <br />
              I know I'm it's almost over but....
             <br />
-            Every day is brighter with you, and today is all about celebrating you Sophia. 🌹
+            Every day is brighter with you, and today is all about celebrating you. 🌹
             <br />
             Najua umejam tuh sana but everything is gonna be fine !.
           </p>
@@ -143,7 +143,7 @@ export default function Page() {
       {/* Footer */}
       <footer className="mt-10 flex justify-center gap-4 text-sm text-gray-700">
         <p>
-          Made with ❤️ by <strong>[Yoooow!!!!!!]</strong>
+          Made with ❤️ by <strong>Yoooow!!!!!! </strong>
         </p>
         <HeartIcon className="h-4 w-4 text-red-500" />
       </footer>
